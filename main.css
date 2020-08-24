@@ -2,18 +2,19 @@ body {
   background-color: rgb(158, 189, 216);
 }
 
-h2 {
+h1 {
   margin: 40px;
-  color: red;
   text-align: center;
+  font-size: 70px;
 }
 
 h3 {
   margin: 20px;
+  text-align: center;
 }
 
 p {
-  margin: 40px;
+  text-align: left;
 }
 
 * {
@@ -26,11 +27,25 @@ footer {
 
 img {
   width: 150px;
-  margin-top: 20px;
-  margin: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
 }
 
 div {
-  margin-left: 50%;
-  margin-right: 50%;
+  margin: auto;
+  width: 40%;
+}
+
+form {
+  margin-top: 40px;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.float-right {
+  float: right;
 }
