@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(158, 189, 216);
+}
+
+h2 {
+  margin: 40px;
+  color: red;
+  text-align: center;
+}
+
+h3 {
+  margin: 20px;
+}
+
+p {
+  margin: 40px;
+}
+
+* {
+  font-family: sans-serif;
+}
+
+footer {
+  margin: 20px;
+}
+
+img {
+  width: 150px;
+  margin-top: 20px;
+  margin: auto;
+}
+
+div {
+  margin-left: 50%;
+  margin-right: 50%;
+}
